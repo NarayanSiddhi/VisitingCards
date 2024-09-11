@@ -1,0 +1,11 @@
+<resources>
+    <string name="name">visitor card</string>
+    <string name="cname">IDEOGRAM</string>
+    <string name="cdesc">Enhancing towards Imagination</string>
+    <string name="mname">Siddhi Narayan</string>
+    <string name="des">UI Designer and Advisor</string>
+    <string name="add">#202, Royal Apartment, Sec-13, Vikas Nagar, Lucknow, Uttar Pradesh, 226022</string>
+    <string name="tel">+91 9415164418 / 9369942699</string>
+    <string name="email">nsiddhi719@gmail.com</string>
+    <string name="idno">ID No. SM0719</string>
+</resources>
